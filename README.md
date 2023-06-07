@@ -16,7 +16,7 @@
 and welcome to my Github profile! Here are some stats ;)
 </div>
 
-<div style="margin: 20px 0; display: inline-flex; gap: 1rem; ">
-    <img align="center" width="50%" height="100%" src="https://github-readme-stats.vercel.app/api?username=Kallepan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github"/>
-    <img align="center" width="50%"  height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kallepan&layout=compact&theme=transparent&langs_count=10">
+<div align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kallepan&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kallepan&layout=compact&theme=transparent&langs_count=10">
 </div>
